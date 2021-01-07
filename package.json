@@ -10,14 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/CarlosCadenaPadilla/node-backend-apis.git"
+        "url": "https://github.com/CarlosCadenaPadilla/node-backend-api.git"
     },
     "author": "Carlos Cadena",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/CarlosCadenaPadilla/node-backend-apis/issues"
+        "url": "https://github.com/CarlosCadenaPadilla/node-backend-api/issues"
     },
-    "homepage": "https://github.com/CarlosCadenaPadilla/node-backend-apis#readme",
+    "homepage": "https://github.com/CarlosCadenaPadilla/node-backend-api#readme",
     "dependencies": {
         "awilix": "^4.3.1",
         "bcryptjs": "^2.4.3",
